@@ -1,1 +1,1 @@
-eyzalts: node server.js
+worker: node index.js
